@@ -1,0 +1,27 @@
+[{
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "address": "г.Москва, ул. Алиева,2",
+  "phoneNumber": "812 123-1234"
+}, {
+  "firstName": "Максим",
+  "lastName": "Лисицин",
+  "address": "г.Брянск, Московский пр-т, 1",
+  "phoneNumber": "483 367-6543"
+}, {
+  "firstName": "Нелли",
+  "lastName": "Иванова",
+  "address": "г.Алушта, ул. Кирова,5",
+  "phoneNumber": "772 265-5789"
+}, {
+  "firstName": "Александр",
+  "lastName": "Бобров",
+  "address": "г.Иркутска, ул. Ленина,25",
+  "phoneNumber": "454 875-2581"
+},  {
+  "firstName": "Валентин",
+  "lastName": "Волосин",
+  "address": "г.Ялта, ул. Симферопольская,20",
+  "phoneNumber": "910 871-1597"
+}]
+© 2018 GitHub, Inc.
